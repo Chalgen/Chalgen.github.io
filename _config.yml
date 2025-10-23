@@ -103,4 +103,4 @@ theme: butterfly
 deploy:
   type: git
   repo: https://github.com/Chalgen/Chalgen.github.io.git
-  branch: main  # 或你选择的部署分支
+  branch: gh-pages  # 或你选择的部署分支
