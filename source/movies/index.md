@@ -4,5 +4,4 @@ date: 2025-10-25 00:00:00
 type: movie  # 自定义type，也可根据主题需求调整
 ---
 
-# 电影推荐
-可以在这里分享看过的电影、影评或片单推荐。
+<iframe src="https://www.skrcc.cc/" frameborder="0"></iframe>
