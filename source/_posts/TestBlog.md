@@ -3,11 +3,9 @@ title: Test和笔记  # 文章标题
 date: 2025-10-24 16:13:00  # 发布时间
 tags: 
   - test
-  - try
   - 笔记
 categories: 
-  - test
-  - try
+  - 学习
 keywords: "笔记,Test"
 cover: /images/e.JPG
 ---
