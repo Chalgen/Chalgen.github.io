@@ -1,7 +1,7 @@
 ---
 title: 关于我
 date: 2025-10-25 00:00:00
-type: about  # 自定义type，也可根据主题需求调整
+type: about  
 ---
 
 # 嘛，你好，我是偃木公
